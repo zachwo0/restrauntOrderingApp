@@ -1,3 +1,18 @@
 body {
     margin: 0;
-} 
+}
+
+header {
+    background: url('./assests/images/restrauntHeaderBackground.png');
+    background-size: cover;
+     background-repeat: no-repeat;
+    height: 280px;
+    padding-top: 20px;
+    color: white;
+    text-align: justify-content;
+}
+
+.header-text {
+    margin: 50px;
+    padding: 20px;
+}
